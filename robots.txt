@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sppu-seven.vercel.app/sitemap.xml
